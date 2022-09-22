@@ -1,0 +1,71 @@
+[{
+        "id": "001",
+        "nombre": "Coca Cola ",
+        "precio": 250,
+        "img": "multimedia/Coca Cola.jpg",
+        "desc": ""
+    },
+    {
+        "id": "002",
+        "nombre": "Fanta Naranja",
+        "precio": 200,
+        "img": ".multimedia/Fanta Naranja.jpg",
+        "desc": ""
+    },
+    {
+        "id": "003",
+        "nombre": "Soda Kin",
+        "precio": 180,
+        "img": "./multimedia/Soda Kin.jpg",
+        "desc": ""
+    },
+    {
+        "id": "004",
+        "nombre": "Sprite",
+        "precio": 270,
+        "img": "./multimedia/Sprite.jpg",
+        "desc": ""
+    },
+    {
+        "id": "005",
+        "nombre": "schweppes",
+        "precio": 320,
+        "img": "./multimedia/schweppes.jpg",
+        "desc": ""
+    },
+    {
+        "id": "006",
+        "nombre": "Pepsi",
+        "precio": 230,
+        "img": "./multimedia/Pepsi.jpg",
+        "desc": ""
+    },
+    {
+        "id": "007",
+        "nombre": "Mirinda Naranja",
+        "precio": 250,
+        "img": "./multimedia/Mirinda Naranja.jpg",
+        "desc": ""
+    },
+    {
+        "id": "008",
+        "nombre": "Mirinda Manzana",
+        "precio": 280,
+        "img": "./multimedia/Mirinda Manzana.jpg",
+        "desc": ""
+    },
+    {
+        "id": "009",
+        "nombre": "7up",
+        "precio": 220,
+        "img": "./multimedia/7up.jpg",
+        "desc": ""
+    },
+    {
+        "id": "010",
+        "nombre": "PowerAde",
+        "precio": 9500,
+        "img": "./multimedia/PowerAde.jpg",
+        "desc": ""
+    }
+]
